@@ -1,8 +1,6 @@
 ## Hey, I'm Colin 👋
 
-I'm a Web Developer with a BSc in Computing🎓. . 
-
-I'm a passionate learner who's always willing to learn and work across technologies and domains. I love to explore new technologies and leverage them to solve real-life problems. 
+As a Web Developer with 3+ years of experience, I specialize in front-end technologies like HTML, CSS, JavaScript, and PHP, with a strong proficiency in WordPress. I'm deeply committed to ongoing learning and thrive on exploring new technologies to address practical problems. My passion for innovation drives me to continually broaden my skill set and excel in various domains and technologies.
 
 
 <!--
